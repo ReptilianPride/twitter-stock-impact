@@ -1,0 +1,12 @@
+# Enforce LF for text files
+* text=auto
+*.py text eol=lf
+*.ipynb text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+
+
+# Allow binary files to remain unchanged
+*.exe binary
+*.png binary
+*.jpg binary
