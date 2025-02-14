@@ -3,11 +3,11 @@
 ## Influence of twitter in the stock market
 This is a project to study the influence of twitter in the stock market.
 
-Note to team:  
-Please run `git config --global core.autocrlf input` before using git
+## __Note to team:__  
+## __Please run `git config --global core.autocrlf input` before using git__
 
 > [!NOTE]  
-> For stock data scraper please contact the team.
+> Please contact the team for:
 > - Stock Scraper
 > - Datasets
 
