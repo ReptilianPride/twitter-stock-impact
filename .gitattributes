@@ -4,7 +4,7 @@
 *.ipynb text eol=lf
 *.sh text eol=lf
 *.md text eol=lf
-
+*.csv text eol=lf
 
 # Allow binary files to remain unchanged
 *.exe binary
